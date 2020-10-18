@@ -14,7 +14,7 @@
 		<div id="container">
 				<div id="sidebar">
 						
-						<h1>Menü</h1>
+						<h1>MenÃ¼</h1>
 							
 							<div id="menu">
 								<a href="#" >Start</a><br />
